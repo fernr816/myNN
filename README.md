@@ -8,3 +8,7 @@ practice building a NN with Python3
 ## mynn2.ipynb
 1 layer fully-connected NN  
 for MNIST datasets
+
+## mynn3.ipynb
+3 layer fully-connected NN
+for MNIST datasets
